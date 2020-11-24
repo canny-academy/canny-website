@@ -913,3 +913,12 @@ body .gdlr-core-flipbox-item .gdlr-core-flipbox-item-image {
 #a_983a_0{font-size: 15px; color: #ffffff;}
 #div_983a_49{border-color: #3db166 ;border-bottom-width: 2px ;}
 #div_983a_50{padding-bottom: 0px ;}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
